@@ -1519,14 +1519,6 @@
     react-native-dropdown-picker "5.3.0"
     react-native-paper "4.11.2"
 
-"@modules/zoom-free-calling@file:./modules/zoom-free-calling/":
-  version "1.0.1"
-  dependencies:
-    react-native-base64 "0.2.1"
-    react-native-dialog-input "1.0.8"
-    react-native-dropdown-picker "5.3.0"
-    react-native-paper "4.11.2"
-
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
   version "5.1.1-v1"
   resolved "https://registry.yarnpkg.com/@nicolo-ribaudo/eslint-scope-5-internals/-/eslint-scope-5-internals-5.1.1-v1.tgz#dbf733a965ca47b1973177dc0bb6c889edcfb129"
