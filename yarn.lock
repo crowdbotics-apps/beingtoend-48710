@@ -1466,6 +1466,9 @@
   dependencies:
     react-native-actionsheet "^2.4.2"
 
+"@modules/faq@file:./modules/faq":
+  version "1.0.0"
+
 "@modules/image-gallery@file:./modules/image-gallery":
   version "1.0.0"
 
